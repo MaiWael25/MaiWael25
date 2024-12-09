@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mai Wael!</h1>
-<h3 align="center">Flutter Developer | Innovator | Tech Enthusiast</h3>
+<h3 align="center">Flutter Developer</h3>
 
 ---
 
