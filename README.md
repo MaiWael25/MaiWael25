@@ -6,7 +6,6 @@
 ### 🚀 About Me:
 I’m a creative and detail-oriented Flutter Developer passionate about building mobile apps that blend style with substance. With expertise in Dart programming, state management, and UI/UX design, I love crafting apps that don’t just work but *feel* right.  
 
-- 🌟 Currently working on **[fitfat](https://github.com/MaiWael25/fitfat)** – a project focused on enhancing wellness through technology.
 - 📚 Constantly learning and exploring the latest in app development to stay ahead in the tech game.
 - 💡 Obsessed with solving real-world problems through innovative mobile solutions.
 
