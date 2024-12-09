@@ -37,6 +37,3 @@ Here are some of my favorite projects:
 
 ---
 
-### ✨ Fun Fact:
-I enjoy turning caffeine into code and occasionally indulge in brainstorming ideas that make life easier!
-
